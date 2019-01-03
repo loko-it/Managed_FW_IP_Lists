@@ -1,4 +1,4 @@
-# Managed_FW_IP_Lists
+# Managed FW IP Lists
 IP Lijsten t.b.v URL Alias
 
 RL Table Aliases
