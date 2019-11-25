@@ -1,0 +1,29 @@
+#Office 365 phising portal - handmatig vastgesteld door LOKO zie beveiligingsincident 01.846.769
+5.178.64.4
+5.178.64.6
+# Ziggo ransomware phishing campaign https://blog.fox-it.com/2016/10/20/ziggo-ransomware-phishing-campaign-still-increasing-in-size/
+185.40.152.22
+# DeriaLock http://arizonacode.bplaced.net/HF/SystemLocker/unlock-everybody.txt
+144.76.167.69
+# Ransomware Sender handmatig vastgesteld door LOKO
+76.102.106.130
+136.243.22.249
+71.205.230.62
+# http://blog.talosintelligence.com/2017/03/crypt0l0cker-torrentlocker-old-dog-new.html DNS Resolve Payload
+69.64.147.242
+216.250.121.92
+213.239.193.125
+94.73.151.61
+37.140.192.66
+192.195.77.126
+31.24.135.76
+# Jaff Ransomware Hosts http://www.pcworld.com/article/3196482/security/new-ransomware-jaff-demands-3700-payments.html
+47.91.107.213
+86.110.117.79
+47.91.75.125
+47.91.77.141
+#https://dissectingmalwa.re/tfw-ransomware-is-only-your-side-hustle.html
+173.33.106.120
+8.208.13.24
+##incomming mail from stadtmailer.com
+46.166.129.227
